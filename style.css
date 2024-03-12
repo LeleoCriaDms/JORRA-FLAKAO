@@ -1,0 +1,49 @@
+body 
+{
+  background-color: black;
+  text-align: center;
+}
+h1 
+{
+  color: whitek;
+  border-style: solid;
+  border-color:white;  
+  border-width:2px;
+  padding: 10px;
+}
+h2
+{
+  color: red;
+  border-style: dashed;
+  border-color: darkred;
+}
+#nome
+{
+  text-decoration: underline;
+  font-size:40px;
+  color: purple;
+  background: white;
+}
+a
+{
+  color: red;
+  font-size: 20px;
+  border-style: dashed;
+  border-color: darkred;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+p{
+  color: darkred;
+  word-spacing: 10px;
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.informacoes{
+    color: darkred;
+    font-size: 18px;
+}
